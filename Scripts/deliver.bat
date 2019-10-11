@@ -1,4 +1,4 @@
 @echo OFF
-set ARTIFACT=Comme_tu_veux.jar
-set DESTDIR=C:\MyApps
+set ARTIFACT=superPoker.war
+set DESTDIR=C:\Users\User\3D Objects\Serveur\apache-tomcat-9.0.26\webapps
 copy target\%ARTIFACT% %DESTDIR%
